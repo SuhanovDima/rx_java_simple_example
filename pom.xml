@@ -85,7 +85,7 @@
     </dependencies>
 
     <properties>
-        <jackson2.version>2.9.7</jackson2.version>
+        <jackson2.version>2.9.10.8</jackson2.version>
     </properties>
 
 
